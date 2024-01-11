@@ -2,6 +2,9 @@
 
 # NoTurningBack
 
+NoTurningBack是ManDown的一部分
+
+隶属于MorePossibility https://github.com/MorePossibility
 
 
 
